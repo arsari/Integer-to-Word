@@ -1,0 +1,11 @@
+{
+  "name": "integer-to-word",
+  "version": "1.0.170527",
+  "description": "An input of integer parameter and returns the associated english word.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arturo Santiago-Rivera",
+  "license": "MIT"
+}
